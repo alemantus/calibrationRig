@@ -1,0 +1,4 @@
+Number of images: 41
+             Start height: 0
+             End height : 20
+             Distance between images: 0.5
